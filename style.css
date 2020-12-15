@@ -3,7 +3,7 @@
 :root {
     --primary--color: purple;
     --dark--gray: #687280;
-    --off--white:#F3F4F6;
+    --off--white: #F3F4F6;
 }
 
 body {
@@ -105,28 +105,29 @@ hr {
 }
 
 /*section*/
-.section
-{
+.section {
     padding: 2rem;
 }
+
 .section h1 {
     text-align: center;
-    
+
 }
-.ow
-{
-background-color: var(--off--white);
+
+.ow {
+    background-color: var(--off--white);
 }
+
 /**footers**/
-.footer
-{
+.footer {
 
     background-color: var(--primary--color);
-    padding:2rem 1rem;
+    padding: 2rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
 }
-.footer .link{
+
+.footer .link {
     color: white;
 }
