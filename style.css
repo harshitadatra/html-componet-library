@@ -6,6 +6,9 @@ body{
 font-family: 'Montserrat', sans-serif;
 }
 /* container*/
+hr{
+    margin: 2rem 0rem;
+}
 
 .container
 {
